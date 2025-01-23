@@ -25,4 +25,4 @@ jobs:
         pip install pytest 
     - name: Run tests 
       run: |         
-        python -m unittest test_app.pyv
+        python -m unittest test_app.py
